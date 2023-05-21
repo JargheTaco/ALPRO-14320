@@ -1,3 +1,7 @@
+TUGAS SCRATCH
+https://drive.google.com/drive/folders/1-qCqX6duocaUKpBKxYq2VTkwHmfJ5_YT?usp=share_link
+
+
 #include<iostream>
 using namespace std;
 // kamus
