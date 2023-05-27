@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-//judul: tugas rekursif kalisal agus
+//judul: tugas rekursif 
+//Nama : Kalisal Agusfajar G.
 //nim: A11.2022.14320
 
 int penguranganRek(int a,int b){
