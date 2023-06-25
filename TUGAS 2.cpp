@@ -1,4 +1,5 @@
 //judul  : TUGAS 2 Kalisal AgusFajar G.
+//NIM : A11.2022.14320
 
 #include <iostream>
 using namespace std;
